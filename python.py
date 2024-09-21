@@ -22,3 +22,4 @@ elif perform==4:
 else:
     print("try again later")
     system.exit()
+print("this is good try again and again")
