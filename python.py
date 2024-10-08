@@ -21,5 +21,4 @@ elif perform==4:
     print("the division of two number is: ",div)
 else:
     print("try again later")
-    system.exit()
 print("this is good try again and again")
