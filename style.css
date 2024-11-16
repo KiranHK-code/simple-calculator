@@ -1,5 +1,44 @@
-p{
-    color: red;
-    background: skyblue
-    image-set(git)
+*{
+    padding: 0%;
+    margin: 0%;
 }
+
+.para{
+    text-align: center;
+    background-color: transparent;
+    font-size: 30px;
+    color:green;
+    padding-bottom: 10px;
+    
+}
+.btn{
+   text-align: center;
+   margin: 5px 5px 0px 5px;
+   padding: 5px 5px 5px 5px;
+}
+#btn1{
+    height: 50px;
+    width: 50px;
+    margin: 5px 5px 0px 5px;
+    border-radius: 50%;
+    background-size: cover;
+    background-color:black;
+    font-size: 20px;
+    color:red;
+    cursor: pointer;
+   
+}
+input{
+    height: 50px;
+    width:224px;
+    cursor: pointer;
+    background-color:greenyellow;
+    font-size: 25px;
+     
+}
+body{
+    background-color: yellow;
+    background-size: cover;
+}
+
+    
